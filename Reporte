@@ -1,0 +1,7 @@
+Para utilizar al aplicacaión  simplemente se tienen que descargar los archivos que se encuentran en este repositorio y asegurarse que todos se encunetren en la misma carpeta
+ya que de no ser así, no existirá una conexión entre los archivos html, js y css. 
+***Una vez que los archivos estén descargados y en la misma carpeta, basta con darle doble clic al archivo "indez.htm" y el archivo se ejecutará en el navegador de su preferencia
+*** Al abrir el archivo de clic en el botón "Selecionar archivo", en seguida se abrirá su explorador de carpetas y usted podrá seleccionar el archivo csv que usted quiera subir.
+En caso de no tener un archivo csv, yo le proporciono uno en el mismo repositorio donde se encuentran los archivos antes mencionados
+***Al selecionar el archivo csv de clic en "subir archivo", si el archivo no es de tipo csv el sistema le mandará un mensaje diciendo que el archivo que treta de subir es inválido.
+de clic en el botón "Aceptar y vuelva a intentar subir el archivo de la misma manera esta vez asegurándose que el archivo es de tipo .csv"
